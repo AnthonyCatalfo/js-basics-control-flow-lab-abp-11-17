@@ -1,6 +1,6 @@
 // Write your code in this file!
 function scuberGreetingForFeet(rideLength){
-  switch(rideLength) {
+  switch(true) {
     case rideLength<=400:
         return 'This one is on me!'
 
